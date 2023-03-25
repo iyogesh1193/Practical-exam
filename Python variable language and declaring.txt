@@ -1,0 +1,8 @@
+PYTHON VARIABLE LANGUAGE
+      A Python variable is a symbolic name that is a reference or pointer to an object.
+  The variables are used to denote objects by that name. In the above image, the variable a refers to an integer object.
+Suppose we assign the integer value 50 to a new variable b.
+Declaring a variable....
+Eg;- char final_Grade;//
+     Final_Grade is a variable of type char, and no value is assigned to it. Data_type variable_name=val;
+Eg:-int age= 22;//age ia variable of type int and holds the value 22. 

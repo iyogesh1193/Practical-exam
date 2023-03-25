@@ -1,0 +1,10 @@
+ Python sum number list.
+ def sum(numbers):
+   total=0
+for x in numbers:
+total+X
+retun total
+print9sum(8,2,3,0,7)))
+ 
+EX:- Input[12,15,3,10]
+     output: 40

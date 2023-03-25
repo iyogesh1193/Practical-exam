@@ -1,0 +1,4 @@
+Muliply all numbers list.
+Example: input; list1= [1,2,3]
+         output : 6
+    explanation: 1*2*3=6

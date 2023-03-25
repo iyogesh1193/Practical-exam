@@ -1,0 +1,9 @@
+Python program to genrate and point a list of number 1 to 10.
+Python code
+ nums=rang(1,10)
+ print(list(nums))
+ print(list(map(str,nums)))
+
+Output:
+[1,2,3,4,5,6,7,8,9]
+['1', '2','3','4','5','6','7','8','9']
